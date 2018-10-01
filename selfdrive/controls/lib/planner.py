@@ -29,12 +29,12 @@ GPS_PLANNER_ADDR = "192.168.5.1"
 # lookup tables VS speed to determine min and max accels in cruise
 # make sure these accelerations are smaller than mpc limits
 _A_CRUISE_MIN_V  = [-1.0, -.8, -.67, -.5, -.30]
-_A_CRUISE_MIN_BP = [   0., 5.,  10., 20.,  40.]
+_A_CRUISE_MIN_BP = [0., 5.,  10., 20.,  40.]
 
 # need fast accel at very low speed for stop and go
 # make sure these accelerations are smaller than mpc limits
-_A_CRUISE_MAX_V = [1.1, 1.1, .8, .5, .3]
-_A_CRUISE_MAX_V_FOLLOWING = [1.6, 1.6, 1.2, .7, .3]
+_A_CRUISE_MAX_V = [2., 2., 1.6, 1.2, .7]
+_A_CRUISE_MAX_V_FOLLOWING = [2., 2., 1.6, 1.2, .7]
 _A_CRUISE_MAX_BP = [0.,  5., 10., 20., 40.]
 
 # Lookup table for turns
