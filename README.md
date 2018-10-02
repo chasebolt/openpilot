@@ -1,3 +1,10 @@
+# CHANGES IN THIS FORK
+- 1 hour limit for awareness monitor
+- Attempt at increasing cruise control acceleration
+- UI changes from https://github.com/zeeexsixare/openpilot.git
+
+------
+
 [![](https://i.imgur.com/VlKV6V8.png)](#)
 
 Welcome to openpilot
