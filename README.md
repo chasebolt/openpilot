@@ -1,6 +1,6 @@
 [![](https://i.imgur.com/VlKV6V8.png)](#)
 
-Welcome to openpilot
+Welcome to openpilots
 ======
 
 [openpilot](http://github.com/commaai/openpilot) is an open source driving agent. Currently it performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas, Acuras, Toyotas, and a Chevy. It's about on par with Tesla Autopilot and GM Super Cruise, and better than [all other manufacturers](http://www.thedrive.com/tech/5707/the-war-for-autonomous-driving-part-iii-us-vs-germany-vs-japan).
